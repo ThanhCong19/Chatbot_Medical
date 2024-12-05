@@ -18,9 +18,7 @@ I use model [LLaMA-2 7B](https://huggingface.co/meta-llama/Llama-2-7b-hf) to exp
 
 
 ## IV. How to use
-First, `!git clone` this repo, then install the environment with the command `!pip install --upgrade -r requirements.txt`.
-Train, Inference and Demo:
-    - You can use the script in my [notebook](https://github.com/ThanhCong19/Chatbot_Medical/tree/dev/Notebook). 
+First, `!git clone` this repo, then install the environment with the command `!pip install --upgrade -r requirements.txt`. To do Train, Inference and Demo you can use the script in my [notebook](https://github.com/ThanhCong19/Chatbot_Medical/tree/dev/Notebook). 
 
 ## Acknowledgements
 Thanks [VietAI-experiment-LLaMA2](https://github.com/longday1102/VietAI-experiment-LLaMA2) for the base codes.
